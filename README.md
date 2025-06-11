@@ -1,4 +1,4 @@
-```
+
 # Beauty Pouch - E-commerce Website Template
 
 ## Description
@@ -17,7 +17,6 @@ Beauty Pouch is a stylish and modern multi-page e-commerce website template desi
 ## Project Structure
 
 For the website to function correctly, ensure your files are organized according to the following structure. All necessary CSS, JavaScript, and image files must be in their respective folders.
-
 ```
 /beauty-pouch-website/
 |
@@ -66,4 +65,4 @@ For the website to function correctly, ensure your files are organized according
 -   jQuery
 -   Font Awesome
 
-```
+
